@@ -1,7 +1,12 @@
 {
     "name": "karma-english-basicsounds",
     "dependencies": [
-        "narwhal",
+        ["narwhal", 
+         {       "locate": "http://github.com/tlrobinson/narwhal/zipball/master/",
+          	"revision": "master" ,     
+	        "package": "narwhal"
+	}			    
+      	],
         [
             "karma-epaath-framework",
             {
