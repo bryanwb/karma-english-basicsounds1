@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<matchingGame>
+	<language>english</language>
+      <playHow>Match Picture and Text</playHow>
+
+	<level row="4" col="4" lifeSpan="90">
+		
+		<objectPair>
+			<object url="bag.swf" matchId="1"/>
+			<object url="bag_T.swf" matchId="1"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="bee.swf" matchId="2"/>
+			<object url="bee_T.swf" matchId="2"/>
+		</objectPair>
+
+
+		<objectPair>
+			<object url="book.swf" matchId="3"/>
+			<object url="book_T.swf" matchId="3"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="cat.swf" matchId="4"/>
+			<object url="cat_T.swf" matchId="4"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="cup.swf" matchId="5"/>
+			<object url="cup_T.swf" matchId="5"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="deer.swf" matchId="6"/>
+			<object url="deer_T.swf" matchId="6"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="duck.swf" matchId="7"/>
+			<object url="duck_T.swf" matchId="7"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="flower.swf" matchId="8"/>
+			<object url="flower_T.swf" matchId="8"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="frog.swf" matchId="9"/>
+			<object url="frog_T.swf" matchId="9"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="goat.swf" matchId="11"/>
+			<object url="goat_T.swf" matchId="11"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="helmet.swf" matchId="12"/>
+			<object url="helmet_T.swf" matchId="12"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="hen.swf" matchId="13"/>
+			<object url="hen_T.swf" matchId="13"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="horse.swf" matchId="14"/>
+			<object url="horse_T.swf" matchId="14"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="jet.swf" matchId="15"/>
+			<object url="jet_T.swf" matchId="15"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="joker.swf" matchId="16"/>
+			<object url="joker_T.swf" matchId="16"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="pig.swf" matchId="10"/>
+			<object url="pig_T.swf" matchId="10"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="ball.swf" matchId="17"/>
+			<object url="ball_T.swf" matchId="17"/>
+		</objectPair>		
+
+		<objectPair>
+			<object url="butterfly.swf" matchId="18"/>
+			<object url="butterfly_T.swf" matchId="18"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="kettle.swf" matchId="19"/>
+			<object url="kettle_T.swf" matchId="19"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="kite.swf" matchId="20"/>
+			<object url="kite_T.swf" matchId="20"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="monkey.swf" matchId="21"/>
+			<object url="monkey_T.swf" matchId="21"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="pillow.swf" matchId="22"/>
+			<object url="pillow_T.swf" matchId="22"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="snake.swf" matchId="23"/>
+			<object url="sanke_T.swf" matchId="23"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="swan.swf" matchId="24"/>
+			<object url="swan_T.swf" matchId="24"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="tree.swf" matchId="25"/>
+			<object url="tree_T.swf" matchId="25"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="tv.swf" matchId="26"/>
+			<object url="tv_T.swf" matchId="26"/>
+		</objectPair>
+
+		<objectPair>
+			<object url="gate.swf" matchId="27"/>
+			<object url="gate_T.swf" matchId="27"/>
+		</objectPair>
+	</level>
+</matchingGame>
