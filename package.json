@@ -1,20 +1,32 @@
 {
-    "dependencies": [],
-    "name": "karma-english-basicsounds1",
+    "name": "karma-english-basicsounds",
+    "dependencies": [
+        "narwhal",
+        [
+            "karma-epaath-framework",
+            {
+                "locate": "http://github.com/bryanwb/karma-epaath-framework/zipball/master",
+                "revision": "latest",
+                "package": "karma-epaath-framework"
+            }
+        ]
+    ],
     "author": "Sudaya Maharjan",
     "contributors": [],
     "description": "A Karma lesson for learning basic sounds of the English language",
-    "keywords": ["E-Paath", "English"],
-    "license":"MIT",
+    "keywords": [
+        "E-Paath",
+        "English"
+    ],
+    "license": "MIT",
     "karma": {
-    	     "grade": "2",
-	     "subject": "english",
-	     "locale": "ne_np",	
-	     "week": "7"    	     	     
-    },   
+        "grade": "2",
+        "subject": "english",
+        "locale": "ne_np",
+        "week": "7"
+    },
     "main": "",
     "type": "zip",
     "githubName": "karma-english-basicsounds1",
-    "location": "http://github.com/bryanwb/karma-english-basicsounds1/zipball/master",
-    
+    "location": "http://github.com/bryanwb/karma-english-basicsounds1/zipball/master"
 }
